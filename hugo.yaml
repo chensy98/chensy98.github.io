@@ -69,11 +69,10 @@ params:
 
   homeInfoParams:
     Title: "BALKIN's Reverie"
-    Content: >
-      👋 Welcome to my personal room!
+    Content: |
+      👋 **Welcome to my personal blog!**
 
       I'm a PhD candidate specialising in computational materials, also interested in chemical physics and programming.
-
       I'm assumably a jack-of-all-trades.
 
       Feel free to wander and whim here.
