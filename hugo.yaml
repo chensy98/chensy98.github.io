@@ -1,6 +1,6 @@
 baseURL: "https://chensy98.github.io/"
 title: ITPS
-paginate: 5
+paginate: 7
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
@@ -12,6 +12,7 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
 # googleAnalytics: UA-123-45
+enableGitInfo: true
 
 minify:
   disableXML: true
@@ -27,17 +28,24 @@ languages:
       series: series
     menu:
       main:
+        - name: Home
+          weight: 1
+        - name: Life
+          url: life
+          weight: 2
+        - name: Work
+          url: work
+          weight: 4
+        - name: Tags
+          url: tags
+          weight: 6
         - name: Archive
           url: archives
-          weight: 5
+          weight: 8
         - name: Search
-          url: search/
+          url: search
           weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
 
 outputs:
   home:
@@ -70,7 +78,7 @@ params:
   homeInfoParams:
     Title: "BALKIN's Reverie"
     Content: |
-      👋 **Welcome to my personal blog!**
+      👋 **Welcome to my weblog!**
 
       I'm a PhD candidate specialising in computational materials, also interested in chemical physics and programming.
       I'm assumably a jack-of-all-trades.
@@ -87,6 +95,9 @@ params:
     - name: email
       title: Email
       url: "chensy98@hotmail.com"
+    - name: "RSS"
+      title: "Subscribe to my RSS feed"
+      url: "https://chensy98.github.io/index.xml"
 
   editPost:
     URL: "mailto://chensy98@hotmail.com?subject=Suggesting changes for "
