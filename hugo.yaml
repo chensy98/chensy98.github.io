@@ -1,4 +1,4 @@
-baseURL: "https://chensy98.github.io/"
+baseURL: "https://blog.itps.top/"
 title: ITPS
 paginate: 7
 theme: ["PaperMod"]
@@ -11,7 +11,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
-# googleAnalytics: UA-123-45
+googleAnalytics: G-8QG8NKL8P9
 enableGitInfo: true
 
 minify:
@@ -97,7 +97,7 @@ params:
       url: "chensy98@hotmail.com"
     - name: "RSS"
       title: "Subscribe to my RSS feed"
-      url: "https://chensy98.github.io/index.xml"
+      url: "https://blog.itps.top/index.xml"
 
   editPost:
     URL: "mailto://chensy98@hotmail.com?subject=Suggesting changes for "
