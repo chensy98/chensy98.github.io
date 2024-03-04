@@ -96,7 +96,7 @@ params:
       title: Email
       url: "chensy98@hotmail.com"
     - name: "RSS"
-      title: "Subscribe to my RSS feed"
+      title: "Subscribe to RSS Feed"
       url: "https://blog.itps.top/index.xml"
 
   editPost:
