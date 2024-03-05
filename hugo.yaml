@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: ["categories"]
 googleAnalytics: G-8QG8NKL8P9
 enableGitInfo: true
 
@@ -31,19 +31,19 @@ languages:
         - name: Home
           weight: 1
         - name: Life
-          url: life
+          url: /categories/life
           weight: 2
         - name: Work
-          url: work
+          url: /categories/work
           weight: 4
         - name: Tags
-          url: tags
+          url: /tags
           weight: 6
         - name: Archive
-          url: archives
+          url: /archives
           weight: 8
         - name: Search
-          url: search
+          url: /search
           weight: 10
 
 
