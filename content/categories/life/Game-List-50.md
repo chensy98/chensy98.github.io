@@ -1,6 +1,6 @@
 ---
 title: 'Game List 50'
-date: 2024-03-20T07:59:23+08:00
+date: 2024-03-17T07:59:23+08:00
 draft: false
 categories: "life"
 tags: ["game"]
