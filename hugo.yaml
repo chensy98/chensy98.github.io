@@ -54,7 +54,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "BALKIN's Blog - https://blog.itps.top"
+  description: "BALKIN's Blog - https://chensy98.github.io/"
   author: BALKIN
   # author: ["Me", "You"] # multiple authors
 
