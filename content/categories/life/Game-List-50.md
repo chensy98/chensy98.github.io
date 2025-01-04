@@ -57,4 +57,4 @@ summary:
 - Civilization V, VI
 - Slay the Spire
 - Baldr Sky Dive 1, 2
-- Tales of Arise
+- Ruina

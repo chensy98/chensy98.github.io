@@ -1,4 +1,4 @@
-baseURL: "https://blog.itps.top/"
+baseURL: "https://chensy98.github.io/"
 title: ITPS
 paginate: 7
 theme: ["PaperMod"]
@@ -96,7 +96,7 @@ params:
       url: "chensy98@hotmail.com"
     - name: "RSS"
       title: "Subscribe to RSS Feed"
-      url: "https://blog.itps.top/index.xml"
+      url: "https://chensy98.github.io/index.xml"
 
   editPost:
     URL: "mailto://chensy98@hotmail.com?subject=Suggesting changes for "
